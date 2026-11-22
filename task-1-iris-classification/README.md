@@ -6,7 +6,7 @@ scaling, full metric reporting, confusion matrices, one-vs-rest ROC curves and d
 visualization.
 
 **Datheon Machine Learning & Data Science Internship — Task Submission**
-Author: Mbongwa (Andile) · Data Science III, Sol Plaatje University
+Author: Andile Raphiya · Data Science III, Sol Plaatje University
 
 ---
 
