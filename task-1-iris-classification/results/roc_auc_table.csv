@@ -1,0 +1,6 @@
+Class,Decision Tree,Logistic Regression
+macro-average,0.9718,0.9968
+micro-average,0.9739,0.9978
+setosa,1.0,1.0
+versicolor,0.945,0.995
+virginica,0.97,0.995
