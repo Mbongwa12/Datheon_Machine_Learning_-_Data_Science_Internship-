@@ -3,7 +3,7 @@
 Portfolio of completed tasks for the Datheon Machine Learning & Data Science internship
 (4-week programme, November 2026).
 
-**Author:** Mbongwa (Andile) · Data Science III, Sol Plaatje University
+**Author:** Andile Raphiya · Data Science III, Sol Plaatje University
 
 ---
 
